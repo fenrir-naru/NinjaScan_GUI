@@ -1,7 +1,7 @@
 NinjaScan GUI
 =============
 [![Build Status](https://travis-ci.org/fenrir-naru/NinjaScan_GUI.svg?branch=spike)](https://travis-ci.org/fenrir-naru/NinjaScan_GUI)
-[![Build status](https://ci.appveyor.com/api/projects/status/6s80ttso6sww4eyi?svg=true)](https://ci.appveyor.com/project/)
+[![Build status](https://ci.appveyor.com/api/projects/status/6s80ttso6sww4eyi?svg=true)](https://ci.appveyor.com/project/fenrir-naru/ninjascan-gui)
 
 Ninja Scan GUI software including Sylphide format parser.
 
